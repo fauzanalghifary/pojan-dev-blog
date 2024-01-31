@@ -45,6 +45,11 @@ We do know that `bg-red-700` and `bg-violet-700` are valid Tailwind class names.
 
 Hmm, why does this happen? 🤔
 
+<p style="text-align: center; margin-top: 40px;">
+  <img src="thinking.png" alt="person thinking" style="border-radius: 16px" />
+</p>
+
+
 This is actually one of the common _gotcha_ when using Tailwind. The reason is that _Tailwind can only detect classes that exist as **complete unbroken strings** in our source code._
 
 The keyword is: **complete unbroken strings**.
