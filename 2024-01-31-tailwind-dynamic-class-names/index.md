@@ -31,7 +31,7 @@ const ButtonContainer = () => {
 
 The first one has `color="red"` as a prop, and the second one has `color="violet"` as a prop.
 
-The idea is that the first button will have the `bg-red-700` class, and the second one will have the `bg-violet-700` class. So, the expected result is that the first button will have a red background color, and the second one will have a violet background color.
+The idea is that the first button will have the `bg-red-700` class name, and the second one will have the `bg-violet-700` class name. So, the expected result is that the first button will have a red background color, and the second one will have a violet background color.
 
 The code seems good, so let's check the result ... 🥁🥁🥁
 
