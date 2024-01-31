@@ -35,9 +35,7 @@ The idea is that the first button will have the `bg-red-700` class name, and the
 
 The code seems good, so let's check the result ... 🥁🥁🥁
 
-<p style="text-align: center; margin-top: 40px;">
   <img src="failed-demo.png" alt="failed-demo" style="border-radius: 16px"/>
-</p>
 
 It didn't work. 🤯🤯🤯
 
@@ -88,9 +86,7 @@ Here, we pass the complete class name as a prop to the `CustomButton` component,
 
 Let's check the result … 🥁🥁🥁
 
-<p style="text-align: center; margin-top: 40px;">
-  <img src="success-demo.png" alt="success-demo" style="border-radius: 16px" />
-</p>
+<img src="success-demo.png" alt="success-demo" style="border-radius: 16px" />
 
 Done! It works as expected now! 🎉🎉🎉
 
