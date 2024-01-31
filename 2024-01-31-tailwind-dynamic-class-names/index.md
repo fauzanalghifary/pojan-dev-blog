@@ -96,6 +96,6 @@ Congratulations on learning this new tip today! 😄
 
 ---
 
-reference:
+further reading:
 - https://tailwindcss.com/docs/content-configuration#class-detection-in-depth
 - https://tailwindcss.com/docs/content-configuration#dynamic-class-names
